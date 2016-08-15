@@ -1,0 +1,11 @@
+{
+  "name": "eag",
+  "version": "1.0.0",
+  "description": "Boilerplate for express, angular, bower, gulp application",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "echorohit",
+  "license": "ISC"
+}
